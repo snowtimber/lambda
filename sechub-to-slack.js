@@ -1,5 +1,5 @@
 //update environment variables within lambda console under configuration -> Environmental Variables
-//Key Value slackChannel	slack-integration webHookUrl	https://hooks.slack.com/services/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
+//Key Value slackChannel	slack-integration webHookUrl	https://hooks.slack.com/services/X
 'use strict';
 const AWS = require('aws-sdk');
 const url = require('url');
